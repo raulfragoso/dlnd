@@ -4,4 +4,4 @@ This is a personal repository to host the lessons and projects for the Udacity D
 
 ## Week 1
 
-
+### Linear Regression
